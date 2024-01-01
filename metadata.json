@@ -1,0 +1,28 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "something-from-elsewhere@proton.me",
+                "Name": "Lucianna from Elsewhere"
+            }
+        ],
+        "Category": "Date and Time",
+        "Description": "Time displayed in human-readable binary format",
+        "EnabledByDefault": true,
+        "Icon": "clock",
+        "Id": "org.neocities.something-from-elsewhere.betterbinaryclock",
+        "License": "GPL-3.0+",
+        "Name": "Better Binary Clock",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.time",
+        "org.kde.plasma.date"
+    ]
+}
