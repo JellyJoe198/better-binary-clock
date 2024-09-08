@@ -2,17 +2,17 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "something-from-elsewhere@proton.me",
-                "Name": "Lucianna from Elsewhere"
+                "Email": "jellyjoe198+kde@gmail.com",
+                "Name": "joseph Brownlee"
             }
         ],
         "Category": "Date and Time",
         "Description": "Time displayed in human-readable binary format",
         "EnabledByDefault": true,
         "Icon": "clock",
-        "Id": "org.neocities.something-from-elsewhere.betterbinaryclock",
+        "Id": "org.jmbrownlee.verticalbinaryclock",
         "License": "GPL-3.0+",
-        "Name": "Better Binary Clock",
+        "Name": "Vertical Better Binary Clock",
         "ServiceTypes": [
             "Plasma/Applet"
         ],

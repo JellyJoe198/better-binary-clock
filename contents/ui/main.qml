@@ -23,12 +23,12 @@ Item {
     property int hours
     property int minutes
     property int seconds
-    width: PlasmaCore.Units.gridUnit * 15
-    height: PlasmaCore.Units.gridUnit * 4
+    // width: PlasmaCore.Units.gridUnit * 15
+    // height: PlasmaCore.Units.gridUnit * 4
 
     Plasmoid.preferredRepresentation: Plasmoid.compactRepresentation
 
-    Plasmoid.toolTipMainText: Qt.formatDate(dataSource.data["Local"]["DateTime"], "dddd")
+    Plasmoid.toolTipMainText: Qt.formatDateTime(dataSource.data["Local"]["DateTime"], "hh:mm dddd")
     Plasmoid.toolTipSubText: Qt.formatDate(dataSource.data["Local"]["DateTime"], Qt.locale().dateFormat(Locale.LongFormat).replace(/(^dddd.?\s)|(,?\sdddd$)/, ""))
 
     PlasmaCore.DataSource {
