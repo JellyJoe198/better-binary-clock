@@ -2,7 +2,6 @@
  * Partial Rewrite of the original KDE 5/Plasma Binary Clock, with improved readability and the ability to fit comfortably in a sidebar. Based on "the best way to count" on youtube
  *
  * SPDX-FileCopyrightText: 2023 Lucianna from Elswhere <something-from-elsewhere@proton.me>
- * SPDX-FileCopyrightText: 2024 Joseph Brownlee <jellyjoe198@gmail.com>
  *
  * Loosely based on BinaryClock.qml:
  * SPDX-FileCopyrightText: 2014 Joseph Wenninger <jowenn@kde.org>

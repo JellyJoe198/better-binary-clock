@@ -2,7 +2,6 @@
  * horizontal line for representing binary numbers by height
  *
  * SPDX-FileCopyrightText: 2024 Lucianna from Elsewhere <something-from-elsewhere@proton.me>
- * SPDX-FileCopyrightText: 2024 Joseph Brownlee <jellyjoe198@gmail.com> (I only swapped the orientation)
  *
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
